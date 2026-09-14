@@ -2,7 +2,7 @@
 
 **Họ và tên:** NGÔ VĂN HƯNG<br>
 **MSSV:** 2A202602094<br>
-**Hình thức:** cá nhân p<br>
+**Hình thức:** cá nhân <br>
 **Mã cặp:**  `SOLO` 
  
 ## 1. Phạm vi
