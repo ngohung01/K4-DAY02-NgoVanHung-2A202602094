@@ -1,10 +1,10 @@
 # Phiếu quy tắc gán nhãn — Ngày 2
 
-**Họ và tên:** HÃY ĐIỀN<br>
-**MSSV:** HÃY ĐIỀN<br>
-**Hình thức:** HÃY ĐIỀN — cá nhân hoặc theo cặp<br>
-**Mã cặp:** HÃY ĐIỀN — ghi `SOLO` nếu làm cá nhân
-
+**Họ và tên:** NGÔ VĂN HƯNG<br>
+**MSSV:** 2A202602094<br>
+**Hình thức:** cá nhân p<br>
+**Mã cặp:**  `SOLO` 
+ 
 ## 1. Phạm vi
 
 - Chỉ gán phương tiện thuộc bốn lớp bên dưới.
